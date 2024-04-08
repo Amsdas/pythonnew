@@ -1,0 +1,6 @@
+User_ID,Username,Email,Role
+1,johndoe,johndoe@example.com,admin
+2,janedoe,janedoe@example.com,user
+3,bobsmith,bobsmith@example.com,user
+4,alicejones,alicejones@example.com,user
+5,sarahbrown,sarahbrown@example.com,user
